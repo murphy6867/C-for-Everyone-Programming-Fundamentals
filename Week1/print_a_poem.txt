@@ -1,0 +1,10 @@
+/*For assignment
+print poem*/
+
+#include<stdio.h>
+
+int	main(void)
+{
+	printf("\nRules… without them we live with the animals\n");
+	printf("\'advises Winston\'\n");
+}

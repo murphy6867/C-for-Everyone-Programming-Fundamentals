@@ -1,0 +1,11 @@
+#include<stdio.h>             
+  2 #define PI 3.14159            
+  3                               
+  4 int main(void)                
+  5 {                             
+  6         double radius;        
+  7         printf("Enter radius:");
+  8         scanf("%lf", &radius);
+  9         printf("volume is : %lf \n\n", 4 *radius*radius*radius/3 );                                                                                                
+ 10         return 0;             
+ 11 }   
